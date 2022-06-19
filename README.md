@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @koko100 sudo apt-get instaled php
+ @koko100:$ sudo apt-get instaled php 
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,3 +9,5 @@
 koko100/koko100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+@koko100:$ sudo apt-get instaled git
+
